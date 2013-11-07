@@ -321,7 +321,7 @@ a
 a
 0
 8
-5
+8
 1
 1
 NIL
@@ -457,7 +457,7 @@ groundlevel
 groundlevel
 -16
 0
--11
+-10
 1
 1
 patches
@@ -469,17 +469,6 @@ INPUTBOX
 964
 129
 x-coordinate
-0
-1
-0
-Number
-
-INPUTBOX
-809
-10
-964
-70
-y-coordinate
 0
 1
 0
@@ -536,23 +525,6 @@ BUTTON
 113
 falldown
 ask turtles [falldown]
-NIL
-1
-T
-OBSERVER
-NIL
-NIL
-NIL
-NIL
-1
-
-BUTTON
-698
-76
-820
-109
-NIL
-ask turtles [set color round color fadeoutleaves]
 NIL
 1
 T
@@ -621,7 +593,7 @@ SWITCH
 556
 Cloudz
 Cloudz
-0
+1
 1
 -1000
 
@@ -700,7 +672,7 @@ sunbrightness
 sunbrightness
 -6.88
 0
--2.5
+-0.24
 .01
 1
 NIL
@@ -744,7 +716,7 @@ TEXTBOX
 225
 431
 326
-475
+453
 BROKEN
 18
 15.0
@@ -3648,7 +3620,7 @@ Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 
 @#$#@#$#@
-NetLogo 5.0.2
+NetLogo 5.0.4
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@
